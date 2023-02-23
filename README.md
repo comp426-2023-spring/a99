@@ -52,92 +52,33 @@ Your team is responsible for incorporating the following specifications and deli
 
 ## Logistics
 
-You will be working in a small team (up to 3 people) for the final project assignment. 
+You have been assigned to work on a small team for the final project assignment. 
 
 Your team will be responsible for planning the project, determining roles, and then employing a collaborative workflow to build out your project.
 Different people will be interested in different parts of the project.
 Not everyone has to do the same things, nor should they.
 
-The project teams will be managed through GitHub classroom.
-Teams have been created for you. All you have to do is accept the invitation.
+Teams have been created for you and you should have received an invitation to the team and the class GitHub organization.
 
 ### Using collaboration features on GitHub
 
-Here is a boilerplate README.md file with more information and some beginning steps instructions in it.
+*At the end of the project, the `README.md` in your team's repo should be relevant to your project. It is part of the documentation.*
 
-Feel free to put this in a your repo as a checklist.
+See the `CHECKLIST.md` file with more information and some beginning steps instructions in it.
 
-*At the end of the project, the README should be relevant to your project. It is part of the documentation.*
+#### Documentation
 
-```CHECKLIST.md
+As you can see above and in `CHECKLIST.md`, documentation is crucial.
+Get good at it.
+You'll thank me later.
 
-# a99 [Final Project Name]
+##### Some documentation examples
 
-## Summary 
+(May be updated later)
 
-Change this text to be a brief description of your final project.
-Put the name of your project in the header above.
-You will change everything below to be the main technical documentation, as outlined below.
+https://open-meteo.com/en/docs#api-documentation
 
-## Basic guide
-
-1. Choose a license and update the LICENSE file accordingly (default is GPL-3.0-or-later). 
-2. Edit this CHECKLIST.md file and use it as the main location of your technical documentation with links out to other information contained under `/docs/`.
-3. Create a `/docs/` directory for more elaborate documentation of your API, planning notes, etc.
-4. Make sure that all of your team members have access to the repository.
-5. Create a project under the **Projects** tab. Use this to manage your planning. Create a To-do list, etc. Explore the tools available and user them to manage your project.
-7. Assign team roles and include a listing of those roles in this CHECKLIST.md file or in another file under `/docs/`.
-8. Then put your entire development workflow in this repository.
-9. Assign ONE approver to maintain the package and merge pull requests.
-10. Create **forks** to add basic structure, files, and to develop features. Be mindful to not run over each other's code.
-11. Use **Pull requests** to propose changes and incorporate them into your code from various team members. 
-12. Use **Issues** to identify and track bugs and also to communicate about various aspects of the project.
-
-## Team mangement 
-
-Plan to meet with your team ASAP.
-Talk through identifying roles within your team.
-
-Try to figure out what each of you are good at/enjoy doing and try to work out roles that incorporate that.
-
-Some basic roles you will want to consider:
-
-1. A review manager - someone to review pull requests and merge or reject them and manage the related discussions
-2. A plan manager - someone to keep an eye on the overall plan and keep the project tab/to-do list up to date
-3. A documentation manager - someone to keep the documentation in order and identify what is missing and needs to be documented
-4. A release manager - someone to manage the packaging and release process for your prototype package
-5. A project manager - someone keeping track of all the moving parts and make sure that everything that needs to happen is happening
-5. Roles for team members to take charge or different parts of the project. Possible roles:
-    1. Front end lead
-    2. Back end lead
-    3. Database lead
-    4. Design lead
-    5. Etc.
-
-You will notice that there are more roles than people in your group.
-That is because you will all be doing a hybrid job of managing a thing while working on other things.
-
-## Next steps
-
-1. Brainstorm (no ideas are bad) and DOCUMENT the brainstorming.
-2. Refine an idea into a plan (And DOCUMENT this process)
-3. Set a scope of work (what can you feasibly develop in the second half of the semester? Document this!)
-4. Develop a roadmap (Create a project board to document your process)
-5. Assign tasks (DOCUMENT who is doing what)
-6. Start building components (COMMENT and DOCUMENT your code)
-7. Test and review components before you merge them into the main branch of your project (Use the review to document this) 
-8. Fork, develop features, and merge (and DOCUMENT all versions. See a theme here?)
-9. Demo your project. 
-10. Assemble your final documentation.
-11. Clean up code and create a release.
-12. Create a pull request to post a link to your project and your demo the demo repo: https://github.com/comp426-2023-spring/a99-project-demo/
-
-## Go!
-
-And that is about all you need to get started.
-
-Good skill and be creative!
-```
+[Postman Generate API Documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
 
 #### Pull requests
 
@@ -151,7 +92,7 @@ Additionally, use the issues feature to manage bug-fixing and feature discussion
 It makes things easier to keep track of.
 It also helps the instructional staff help you because there will be context and documentation related to your project that we can review when we meet with your team during office hours.
 
-#### Projects
+#### Projects tab
 
 There is a "Projects" tab available in your team repo.
 Create a project board in the class GH organization and attach it to your team. 
@@ -190,8 +131,8 @@ Information about choosing a license can be found here:
 ## Expectations
 
 The expectations for this project is something along the lines of a working prototype.
-It does not have to be beautiful, it just has to work for the most part.
-And it does not have to be feature rich, it just has to do some pretty basic things.
+It does not have to be beautiful, it just has to work for the most part (sort of).
+And it does not have to be feature rich, it just has to do some pretty basic things (though more advanced features are a place for you to flex your skills).
 
 I expect and encourage inter-team collaboration as well.
 If there is something that your team finds useful: create a discussion in our class organization about it!
@@ -204,12 +145,6 @@ Finally, be creative!
 This doesn't mean that what you build has to be earth-shattering.
 It can be whatever your team wants it to be.
 
+AND it can serve as a portfolio piece if you plan accordingly.
+
 So, BE CREATIVE, and do interesting things!
-
-## Documentation examples
-
-https://open-meteo.com/en/docs#api-documentation
-
-https://github.com/jdmar3/coinserver
-
-[Postman Generate API Documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
